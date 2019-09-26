@@ -18,7 +18,7 @@ def hopper
         }
      }
 		 programmer_hash[:grace_hopper]
-		
+		alan_key[:known_for]
 
 
 end
